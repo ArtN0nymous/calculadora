@@ -1,2 +1,2 @@
 # calculadora
-Practica c# calculadora
+Practica Vb calculadora
